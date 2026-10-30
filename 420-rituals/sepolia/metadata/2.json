@@ -1,0 +1,27 @@
+{
+  "name": "420 RITUALS — II SOLO TRIP",
+  "description": "The Lone Voyager. A Soulbound Founding Ritual Card from 420 RITUALS — The Onchain Greenmoire. Sepolia test metadata.",
+  "external_url": "https://github.com/zocc420/420-rituals",
+  "attributes": [
+    {
+      "trait_type": "Ritual",
+      "value": "SOLO TRIP"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "The Lone Voyager"
+    },
+    {
+      "trait_type": "Founding Ritual",
+      "value": "II"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Starknet Sepolia"
+    },
+    {
+      "trait_type": "Transferability",
+      "value": "Soulbound"
+    }
+  ]
+}
