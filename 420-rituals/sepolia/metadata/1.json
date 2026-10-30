@@ -1,0 +1,27 @@
+{
+  "name": "420 RITUALS — I WAKE'N'MINT",
+  "description": "The Alchemist of Dawn. A Soulbound Founding Ritual Card from 420 RITUALS — The Onchain Greenmoire. Sepolia test metadata.",
+  "external_url": "https://github.com/zocc420/420-rituals",
+  "attributes": [
+    {
+      "trait_type": "Ritual",
+      "value": "WAKE'N'MINT"
+    },
+    {
+      "trait_type": "Archetype",
+      "value": "The Alchemist of Dawn"
+    },
+    {
+      "trait_type": "Founding Ritual",
+      "value": "I"
+    },
+    {
+      "trait_type": "Network",
+      "value": "Starknet Sepolia"
+    },
+    {
+      "trait_type": "Transferability",
+      "value": "Soulbound"
+    }
+  ]
+}
